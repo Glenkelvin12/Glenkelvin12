@@ -1,0 +1,18 @@
+.navbar ul li a{
+    text-decoration: none;
+    color: red;
+    font-size: 15px;
+    font-family: 'segoe',Tahoma,geneva,Verdana,Sans-Serif
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 15px ;
+}
+ .navbar ul{
+     float: right;
+ }
+ .navbar ul li a:hover{
+     color: grey;
+     transition: 0,3s;
+ }
